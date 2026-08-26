@@ -1,9 +1,9 @@
 print("this is day 1 of my coding journey and here is what i have learned:")
 
 # 1 variable : variable are used to store data that can be used and changed 
-age = 18 
+age = "18"
 #here age is a variable and 18 is data
-name = vishal 
+name = "vishal"
 #here name is variable and vishal is data
 
 # 2 input() is is used to take input from user 
@@ -17,8 +17,8 @@ age = int(input("what is your age"))
 print(age + 5 )
 
 # 4 expressions : it is a combination of operators and operands such as
-x = 10 (no expression)
-x + 3 (expression with 2 operands and 1 operator and a return value )
+x = 10 #no expression
+x + 3 #expression with 2 operands and 1 operator and a return value 
 
 # 5 statement : instructions that tells computer to proform an action such as
 print("hello world")
@@ -29,7 +29,7 @@ print("your name is :" , name)
 print("your age is :" , age)
 
 # 6 inside statement you can have expressions such as
-print( age = 5)
+print( age + 5)
 #here print is a statement and age + 3 is expression
 
 # 7 comment : comments are used to explain code. python ignores comment because they are not instructions
